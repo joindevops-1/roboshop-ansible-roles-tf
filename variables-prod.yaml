@@ -12,3 +12,4 @@ nexus_url: http://172.31.1.150:8081/repository
 group_id: "com/roboshop"
 nexus_username: admin
 nexus_password: admin123
+packaging: zip
