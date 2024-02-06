@@ -8,3 +8,7 @@ CART_HOST: cart-prod.daws76s.online
 SHIPPING_HOST: shipping-prod.daws76s.online 
 PAYMENT_HOST: payment-prod.daws76s.online 
 DISPATCH_HOST: dispatch-prod.daws76s.online 
+nexus_url: http://172.31.1.150:8081/repository
+group_id: "com/roboshop"
+nexus_username: admin
+nexus_password: admin123
